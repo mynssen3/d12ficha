@@ -1,0 +1,42 @@
+.linha-dupla {
+    height: 5rem;
+}
+
+.img-size{
+    width: 500px; 
+    height: 300px; 
+    object-fit: cover;
+    object-position: top;
+}
+
+.d12-custom{
+        font-weight: bold; 
+        color: blue; 
+        text-shadow: 2px 2px 4px rgb(143, 141, 141); 
+}
+
+.custom-bg-1{
+    background-color: rgb(155, 160, 100);
+}
+
+.custom-bg-2{
+    background-color: rgb(224, 228, 178);
+}
+
+.custom.border{
+    border: 2px solid black; 
+    border-radius: 40px;
+}
+
+.container { 
+    max-width: 800px; margin-top: 20px; 
+}
+.data-section { 
+    margin-bottom: 20px; 
+}
+.data-section p {
+     margin-bottom: 0.5rem; 
+     word-wrap: break-word; 
+     text-align: justify;
+     text-indent: 1.5em;
+}
